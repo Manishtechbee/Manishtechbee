@@ -1,21 +1,59 @@
+<div align="center">
 
+# Manish Kumar
 
-  
-# 💫 About Me:
-👋 Hello there! I'm Manish Kumar , a Developer and Designer with a passion for tech. Welcome to my corner of GitHub!<br><br>About Me<br>💼 I'm currently working as a Design Lead at Coding Bits.<br>🎓 I hold a degree in BE(IT) from UIET .<br>💡 I'm enthusiastic about Blockchain, stocks and more about developing modern and creative websites and I'm always eager to learn new things in this field.<br>🌱 I'm currently focusing on improving my skills in Full Stack and Blockchain.<br>💬 Feel free to reach out to me if you want to discuss any topic or collaborate on any projects.<br>📫 You can connect with me on Linkedin and Instagram.<br><br>Technologies I Work With<br>Programming Languages: C++, C ,Python , Javascript.<br>Frameworks/Libraries: React<br>Tools/Technologies: Flutter, Blockchain<br>Fun Facts<br>🎮 I enjoy playing chess and Badminton.<br>📚 I love reading about sacred holy books and also love to know about psychology and cosmic things.<br>🎨 In my free time, I like to invest my time in one of my favourite hobby of sketching.<br>Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to say hello. 😊
-view=detailV2&ccid=hQR3%2ftCL&id=DF10FB0CB9404A9D2AAE3F3FA078CD4A215A5FF6&thid=OIP.hQR3_tCL_phZgIK80wnOcAHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1292677%2fscreenshots%2f6139167%2favento.gif&exph=600&expw=800&q=coding+profile+pic+gif&simid=607996541803704030&FORM=IRPRST&ck=299AB07792DA18729A13F6614CEECB67&selectedIndex=9&itb=0">
+**Full-Stack Developer · AI/ML Enthusiast · Building things that work end-to-end**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/gmanishaggarwal541) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manishkumar541/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishkumar541/)
+[![Gmail](https://img.shields.io/badge/Email-6B7280?style=flat&logo=gmail&logoColor=white)](mailto:manishtechbees@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2D2D2D?style=flat&logo=leetcode&logoColor=FFA116)](https://leetcode.com/manishtechbees)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manishtechbee&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Manishtechbee&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishtechbee&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Manishtechbee&icon=0&color=0)](https://visitcount.itsvg.in)
+## About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm an IT undergrad at UIET, Panjab University, who'd rather ship a working prototype than talk about one. Most of what I build starts from a question like *"can this actually be useful, not just impressive on paper?"* — that's usually where the AI or accessibility angle in my projects comes from, rather than being added for show.
+
+When I'm not writing code, I'm usually organising something — I run tech events for GDG On Campus, which means a fair amount of my time goes into getting other students unstuck on their first real project, not just my own.
+
+<br>
+
+## What I'm building
+
+**IntelliHire** — Real-time AI interview platform
+Live video interviews (Stream SDK) + collaborative coding sandbox (Judge0, 10+ languages) + an OpenAI-driven layer that scores responses and flags things a human reviewer might miss during a live proctoring session.
+`React` `Node.js` `MongoDB` `OpenAI API` `Docker` → [IntelliHire](github.com/Manishtechbee/IntelliHire)
+
+**Viraasat** — Cultural heritage discovery platform
+Built this after noticing how little regional heritage content exists in accessible formats — voice navigation and multilingual support were the actual hard part, not the map UI.
+`React` `Express` `MongoDB` → [Viraasat](github.com/Manishtechbee/Viraasat)
+
+<br>
+
+## Currently
+
+- Contributing to **Learning Unlimited's ESP Website** — an open-source education platform used across universities. Mostly frontend and error-handling work.
+- Sharpening DSA fundamentals — 300+ problems solved on LeetCode and counting.
+- Exploring how far a small side project can go before it needs a "real" backend.
+
+<br>
+
+## Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,java,react,nodejs,express,mongodb,mysql,tailwind,docker,git,figma" />
+</div>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishtechbee&theme=tokyonight&hide_border=true" height="175"/>
+</div>
+
+<br>
+
+<div align="center">
+<i>Always open to collaborating on projects that mix AI with something practical — feel free to reach out.</i>
+</div>
